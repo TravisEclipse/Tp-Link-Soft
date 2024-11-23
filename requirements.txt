@@ -1,0 +1,7 @@
+PyTelegramBotApi
+colorama
+requests
+pywin32
+packages
+urllib3
+util
